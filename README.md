@@ -1,5 +1,5 @@
 
-### Hi there 👋🏾  welcome to my Github! I`m Full-stack developer 👨‍💻 ☁️
+### Hi there <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> welcome to my Github! I`m Khaid, Full-stack developer 👨‍💻 ☁️
 
 <p align="center">
  <img src="https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy-downsized.gif"/>
