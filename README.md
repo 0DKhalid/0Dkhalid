@@ -7,11 +7,6 @@
 
 
 <p align="center">
-<a href= "https://web.telegram.org/#/im?p=u1286380912_12919902218020090911" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png" width="50" /></a>
-<a href= "mailto:dev.khalid.js@gmail.com" target="_blank"><img src="https://img.icons8.com/carbon-copy/100/000000/gmail.png" width="55"/></a>
-</p>
-
-<p align="center">
 Check out my repos ⬇️  
 </p>
 
